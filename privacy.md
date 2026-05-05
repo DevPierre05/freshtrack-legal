@@ -1,217 +1,212 @@
 # Privacy Policy
 
-**Last updated:** January 2025  
+**Last updated:** May 2026  
 **App:** FreshTrack  
-**Developer:** [Your Name / Company Name]  
-**Contact:** privacy@yourdomain.com
+**Developer:** FreshTrack  
+**Contact:** pierrobj5@gmail.com  
 
 ---
 
 ## Overview
 
-FreshTrack is designed with privacy in mind. The app works primarily 
-offline and stores your food tracking data locally on your device. 
-This policy explains exactly what data is collected, why, and how 
-it is used.
+FreshTrack is built with privacy as a priority. The app is designed to work primarily on your device. Most of your data stays on your phone and is not sent to any external servers.
+
+This Privacy Policy explains what information is used, how it is handled, and your choices.
 
 ---
 
-## 1. Data We Collect
+## 1. Information We Use
 
-### 1.1 Data Stored Locally on Your Device
+### 1.1 Data Stored on Your Device
 
-The following data is created by you and stored **only on your device**
-using AsyncStorage. It is never transmitted to our servers.
+FreshTrack stores your food tracking information locally on your device. This data is created by you when using the app.
 
 | Data | Purpose |
-|------|---------|
-| Food item names | Track what you have |
-| Expiry dates | Send you reminders |
-| Categories & notes | Organise your items |
-| Barcode numbers | Look up product info |
-| App settings | Remember your preferences |
-| Usage statistics | Show your stats screen |
+|------|--------|
+| Food item names | Track items you add |
+| Expiry dates | Send reminders |
+| Categories and notes | Organise your items |
+| Barcode numbers | Identify products |
+| App preferences | Save your settings |
+| Usage data | Display in your personal stats screen |
 
-**We do not have access to this data. It lives only on your phone.**
+This information remains on your device and is not uploaded to our servers.
 
-### 1.2 Data Collected by Third-Party Services
+---
 
-FreshTrack uses the following third-party services that may collect 
-data independently:
+### 1.2 Third Party Services
+
+FreshTrack uses trusted third party services to support certain features. These services may collect limited data as described below.
 
 #### Google AdMob (Free users only)
-- **What:** Advertising identifier (IDFA on iOS, GAID on Android),
-  IP address, device information, ad interaction data
-- **Why:** To show relevant advertisements to free users
-- **Who:** Google LLC
-- **Policy:** https://policies.google.com/privacy
-- **Opt-out:** You can opt out of personalised ads in your device 
-  settings (iOS: Settings → Privacy → Tracking; 
-  Android: Settings → Google → Ads)
 
-#### RevenueCat (Pro subscribers)
-- **What:** Purchase receipts, subscription status, anonymous 
-  app user ID
-- **Why:** To validate and manage your subscription
-- **Who:** RevenueCat, Inc.
-- **Policy:** https://www.revenuecat.com/privacy
-- **Note:** RevenueCat does not receive your food tracking data
+We use Google AdMob to display advertisements in the free version of the app.
 
-#### Open Food Facts API (Barcode scanning)
-- **What:** Barcode numbers you scan
-- **Why:** To look up product names and categories
-- **Who:** Open Food Facts (openfoodfacts.org)
-- **Policy:** https://world.openfoodfacts.org/privacy
-- **Note:** Queries are sent only when you scan a barcode.
-  No personal information is included in the request.
+AdMob may collect:
+- Advertising identifiers
+- Device information
+- IP address
+- Ad interaction data
 
-#### Apple / Google (In-App Purchases)
-- **What:** Purchase receipts, payment information
-- **Why:** To process subscription payments
-- **Note:** FreshTrack never sees your payment card details.
-  All payment processing is handled entirely by Apple or Google.
+Provider: Google AdMob  
+Privacy policy: https://policies.google.com/privacy  
+
+You can manage personalised ads in your device settings.
+
+On iOS, we may request permission to track via Apple’s App Tracking Transparency framework before accessing advertising identifiers.
 
 ---
 
-## 2. Data We Do NOT Collect
+#### RevenueCat (Subscriptions)
 
-We want to be explicit about what we do **not** do:
+We use RevenueCat to manage subscriptions and verify purchases.
 
-- ❌ We do not create user accounts
-- ❌ We do not collect your name or email address
-- ❌ We do not store your food data on any server
-- ❌ We do not sell your data to anyone
-- ❌ We do not use your data for profiling
-- ❌ We do not access your contacts, photos, or location
-- ❌ We do not track you across other apps or websites
+RevenueCat may process:
+- Purchase receipts
+- Subscription status
+- Anonymous app user identifiers
+
+Provider: RevenueCat  
+Privacy policy: https://www.revenuecat.com/privacy  
+
+RevenueCat does not receive your food tracking data.
 
 ---
 
-## 3. Permissions We Request
+#### Open Food Facts (Barcode Lookup)
 
-| Permission | Why We Need It |
-|-----------|---------------|
-| **Camera** | To scan product barcodes. We never store photos. |
-| **Notifications** | To send expiry reminders you configure. |
+When you scan a barcode, it is sent to a product database to return product details.
 
-We request only the permissions we actually need. Camera access is
-used only while you are actively scanning. We do not access your
-camera roll or saved photos.
+Only the barcode number is sent. No personal data is included.
+
+Provider: Open Food Facts  
+Privacy policy: https://world.openfoodfacts.org/privacy  
+
+---
+
+#### Apple and Google Payments
+
+All purchases and subscriptions are handled securely by Apple or Google.
+
+We do not receive or store your payment card details.
+
+Providers:
+- Apple  
+- Google  
+
+---
+
+## 2. Information We Do Not Collect
+
+We do not:
+
+- Create user accounts  
+- Collect your name or email  
+- Store your food data on external servers  
+- Sell personal data  
+- Track you across apps or websites  
+- Access your contacts, photos, or location  
+- Use third party analytics to identify users  
+
+---
+
+## 3. Permissions
+
+FreshTrack requests only the permissions needed for core features.
+
+| Permission | Purpose |
+|------------|--------|
+| Camera | Scan product barcodes |
+| Notifications | Send expiry reminders |
+
+Camera access is only active while scanning. We do not store photos or videos.
 
 ---
 
 ## 4. Notifications
 
-FreshTrack sends local push notifications to remind you when food 
-items are about to expire. These notifications are:
+Notifications are used to remind you about upcoming expiry dates.
 
-- Scheduled locally on your device
-- Never sent through our servers
-- Fully controlled by you in Settings
-- Removable at any time via your device notification settings
+- Created and stored on your device  
+- No notification data is sent to servers  
+- Fully controllable in settings  
 
 ---
 
-## 5. Advertising (Free Users)
+## 5. Advertising
 
-The free version of FreshTrack displays banner advertisements 
-provided by Google AdMob. By using the free version you agree 
-to Google's privacy policy and advertising terms.
+The free version of FreshTrack shows ads provided by Google AdMob.
 
-**If you prefer no ads:** Upgrade to FreshTrack Pro, which removes
-all advertising entirely. Pro subscribers are not tracked by AdMob.
+Advertising may use device identifiers and usage signals collected by AdMob.
 
-### Your Advertising Choices
+You can opt out of personalised advertising in your device settings:
 
-**iOS:**
-- Settings → Privacy & Security → Tracking → 
-  toggle off "Allow Apps to Request to Track"
-- Settings → Privacy & Security → Apple Advertising → 
-  toggle off "Personalised Ads"
+**iOS:** Settings → Privacy & Security → Tracking  
+**Android:** Settings → Google → Ads → Opt out of Ads Personalisation  
 
-**Android:**
-- Settings → Google → Ads → "Opt out of Ads Personalisation"
-- Or reset your advertising ID
+Upgrading to FreshTrack Pro removes all advertisements.
 
 ---
 
-## 6. Children's Privacy
+## 6. Children’s Privacy
 
-FreshTrack is not directed at children under the age of 13 (or 16 
-in the European Union). We do not knowingly collect personal 
-information from children. If you believe a child has provided us 
-with personal information, please contact us and we will delete it.
+FreshTrack is not intended for children under 13, or under 16 in certain regions.
+
+We do not knowingly collect personal data from children. If we become aware of such data, it will be removed.
 
 ---
 
-## 7. Data Retention
+## 7. Data Storage and Control
 
-Since your food tracking data is stored locally on your device:
+Your data is stored locally on your device. You have full control over it.
 
-- **You control it entirely.** Delete the app to remove all data.
-- **Reset option:** Settings → Reset All Data wipes everything.
-- **AdMob data:** Governed by Google's retention policies.
-- **RevenueCat data:** Purchase records retained per their policy 
-  for fraud prevention and legal compliance.
+You can:
+- Delete the app to remove all stored data  
+- Use the reset option in settings to clear everything  
+
+Third party data is handled according to their own policies.
 
 ---
 
 ## 8. Your Rights
 
-Depending on your location, you may have the right to:
+Depending on your region, you may have rights to:
+- Access personal data  
+- Request deletion  
+- Object to processing  
+- Transfer your data  
 
-- **Access** the personal data held about you
-- **Delete** your personal data
-- **Object to** processing of your personal data
-- **Port** your data to another service
+Since we do not store personal data on servers, most actions are handled directly on your device.
 
-Since we store no personal data on our servers, most of these rights
-are exercised directly on your device. For data held by Google 
-(AdMob) or RevenueCat, please contact those services directly.
-
-**EU / EEA Users (GDPR):** You have additional rights under the 
-General Data Protection Regulation. Contact us to exercise them.
-
-**California Users (CCPA):** You have the right to know what 
-personal information is collected and to opt out of its sale. 
-We do not sell personal information.
+For third party services (Google, RevenueCat), contact them directly.
 
 ---
 
 ## 9. Security
 
-We take the following measures to protect your data:
+We take reasonable steps to protect your information:
 
-- All food tracking data is stored locally using React Native 
-  AsyncStorage with device-level encryption
-- We use HTTPS for all API communications (barcode lookups)
-- We do not store payment details — all payments go through 
-  Apple/Google secure infrastructure
+- Data stays on your device where possible  
+- All network requests use HTTPS  
+- Payments are handled securely by Apple or Google  
 
 ---
 
 ## 10. Changes to This Policy
 
-We may update this Privacy Policy from time to time. We will notify
-you of significant changes by:
+We may update this Privacy Policy from time to time.
 
-- Updating the "Last updated" date at the top of this page
-- Showing an in-app notice for material changes
+When changes are made:
+- The “Last updated” date will change  
+- Significant updates may be shown in the app  
 
-Continued use of FreshTrack after changes constitutes acceptance 
-of the updated policy.
-
----
-
-## 11. Contact Us
-
-If you have questions, concerns, or requests regarding this 
-Privacy Policy:
-
-**Email:** privacy@yourdomain.com  
-**Response time:** Within 48 hours  
+Continued use of the app means you accept the updated policy.
 
 ---
 
-*This Privacy Policy was written in plain English intentionally.
-If any section is unclear, please contact us.*
+## 11. Contact
+
+If you have questions or requests:
+
+**Email:** privacy@freshtrackapp.com  
+**Response time:** within 48 hours  
