@@ -2,8 +2,8 @@
 
 **Last updated:** January 2025  
 **App:** FreshTrack  
-**Developer:** [Your Name / Company Name]  
-**Contact:** support@yourdomain.com
+**Developer:** Peter Osei
+**Contact:** pierrobj5@gmail.com
 
 ---
 
@@ -122,7 +122,7 @@ accordance with these Terms. You agree NOT to:
 ### 4.1 Our Property
 
 FreshTrack, including its name, logo, design, code, and content,
-is owned by [Your Name / Company Name] and protected by 
+is owned by Peter Osei and protected by 
 intellectual property laws. You may not copy, modify, distribute,
 or create derivative works without our express written permission.
 
@@ -162,7 +162,7 @@ FreshTrack to determine whether food is safe to consume.
 ## 6. Limitation of Liability
 
 To the maximum extent permitted by applicable law, 
-[Your Name / Company Name] shall not be liable for:
+Peter Osei shall not be liable for:
 
 - Any indirect, incidental, special, or consequential damages
 - Loss of data or profits
@@ -222,9 +222,9 @@ You may terminate your use of the App at any time by uninstalling it.
 
 ## 10. Governing Law
 
-These Terms are governed by the laws of [Your Country/State],
+These Terms are governed by the laws of United Kingdom
 without regard to conflict of law principles. Any disputes shall 
-be resolved in the courts of [Your Jurisdiction].
+be resolved in the courts of United Kingdom.
 
 **EU Users:** Nothing in these Terms affects your statutory rights 
 as a consumer under EU law.
@@ -251,7 +251,7 @@ constitutes acceptance of the revised Terms.
 
 Questions about these Terms?
 
-**Email:** support@yourdomain.com  
+**Email:** pierrobj5@gmail.com
 **Response time:** Within 48 hours
 
 ---
@@ -259,7 +259,7 @@ Questions about these Terms?
 ## 13. Entire Agreement
 
 These Terms, together with our Privacy Policy, constitute the 
-entire agreement between you and [Your Name / Company Name] 
+entire agreement between you and Peter Osei 
 regarding FreshTrack and supersede all prior agreements.
 
 ---
