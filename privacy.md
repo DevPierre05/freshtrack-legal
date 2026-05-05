@@ -208,5 +208,5 @@ Continued use of the app means you accept the updated policy.
 
 If you have questions or requests:
 
-**Email:** privacy@freshtrackapp.com  
+**Email:** pierrobj5@gmail.com
 **Response time:** within 48 hours  
