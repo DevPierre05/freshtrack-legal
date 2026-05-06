@@ -29,6 +29,9 @@ FreshTrack stores your food tracking information locally on your device. This da
 | Barcode numbers | Identify products |
 | App preferences | Save your settings |
 | Usage data | Display in your personal stats screen |
+| Barcode scan count | Enforce free tier monthly scan limit |
+
+The scan count is stored locally on your device only. It is not uploaded to any server.
 
 This information remains on your device and is not uploaded to our servers.
 
@@ -53,7 +56,7 @@ Privacy policy: https://policies.google.com/privacy
 
 You can manage personalised ads in your device settings.
 
-On iOS, we may request permission to track via Apple’s App Tracking Transparency framework before accessing advertising identifiers.
+On iOS, we may request permission to track via Apple's App Tracking Transparency framework before accessing advertising identifiers.
 
 ---
 
@@ -75,12 +78,17 @@ RevenueCat does not receive your food tracking data.
 
 #### Open Food Facts (Barcode Lookup)
 
-When you scan a barcode, it is sent to a product database to return product details.
+When you scan a barcode, the barcode number is sent to the Open Food Facts database to return product details such as name and category.
 
-Only the barcode number is sent. No personal data is included.
+**What is sent:** The barcode number only. No personal data, account information, or device identifiers are included in this request.
+
+**Free users:** Up to 5 barcode lookups per calendar month. The scan count is tracked locally on your device.
+
+**Pro users:** Unlimited barcode lookups.
 
 Provider: Open Food Facts  
 Privacy policy: https://world.openfoodfacts.org/privacy  
+Licence: Product data is provided under the Open Database Licence (ODbL).
 
 ---
 
@@ -103,6 +111,7 @@ We do not:
 - Create user accounts  
 - Collect your name or email  
 - Store your food data on external servers  
+- Store your barcode scan history on servers  
 - Sell personal data  
 - Track you across apps or websites  
 - Access your contacts, photos, or location  
@@ -119,7 +128,7 @@ FreshTrack requests only the permissions needed for core features.
 | Camera | Scan product barcodes |
 | Notifications | Send expiry reminders |
 
-Camera access is only active while scanning. We do not store photos or videos.
+Camera access is only active while the barcode scanner is open. We do not store photos or videos. The camera is used solely to read barcode numbers.
 
 ---
 
@@ -148,7 +157,7 @@ Upgrading to FreshTrack Pro removes all advertisements.
 
 ---
 
-## 6. Children’s Privacy
+## 6. Children's Privacy
 
 FreshTrack is not intended for children under 13, or under 16 in certain regions.
 
@@ -188,6 +197,7 @@ We take reasonable steps to protect your information:
 
 - Data stays on your device where possible  
 - All network requests use HTTPS  
+- Barcode lookups send only the barcode number, with no personal identifiers attached  
 - Payments are handled securely by Apple or Google  
 
 ---
@@ -197,7 +207,7 @@ We take reasonable steps to protect your information:
 We may update this Privacy Policy from time to time.
 
 When changes are made:
-- The “Last updated” date will change  
+- The "Last updated" date will change  
 - Significant updates may be shown in the app  
 
 Continued use of the app means you accept the updated policy.
@@ -208,5 +218,5 @@ Continued use of the app means you accept the updated policy.
 
 If you have questions or requests:
 
-**Email:** pierrobj5@gmail.com
-**Response time:** within 48 hours  
+**Email:** pierrobj5@gmail.com  
+**Response time:** within 48 hours
