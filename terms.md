@@ -1,268 +1,255 @@
 # Terms of Service
 
-**Last updated:** January 2025  
+**Last updated:** May 2026  
 **App:** FreshTrack  
-**Developer:** Peter Osei
-**Contact:** pierrobj5@gmail.com
+**Developer:** Peter Osei  
+**Contact:** pierrobj5@gmail.com  
 
 ---
 
 ## Agreement to Terms
 
-By downloading, installing, or using FreshTrack ("the App"), you 
-agree to be bound by these Terms of Service ("Terms"). If you do 
-not agree to these Terms, do not use the App.
+By downloading, installing, or using FreshTrack ("the App"), you agree to these Terms of Service ("Terms"). If you do not agree, you should not use the App.
 
 ---
 
 ## 1. Description of Service
 
-FreshTrack is a food expiry tracking application that helps you:
+FreshTrack is a food expiry tracking application designed to help you:
 
-- Track food items and their expiry dates
-- Receive notifications before items expire
-- Scan product barcodes to add items quickly
-- Monitor your food waste statistics
+- Track food items and expiry dates  
+- Receive reminders before items expire  
+- Scan product barcodes to add items  
+- View usage statistics  
 
-The App is available in two tiers:
-
-| Tier | Features |
-|------|---------|
-| **Free** | Full tracking features with banner advertisements |
-| **Pro** | All features, no advertisements |
+FreshTrack is offered in free and paid tiers.
 
 ---
 
-## 2. In-App Purchases and Subscriptions
+### 1.1 Free and Pro Features
 
-### 2.1 Pro Subscription Plans
+| Tier | Features |
+|------|--------|
+| **Free** | Core tracking features, limited barcode scans, and advertisements |
+| **Pro** | Unlimited barcode scans, full features, and no advertisements |
 
-FreshTrack Pro is available as:
+---
 
-- **Monthly subscription** — billed every month
-- **Annual subscription** — billed once per year
-- **Lifetime purchase** — one-time payment, permanent access
+### 1.2 Feature Limitations
 
-Prices are displayed in your local currency at the point of 
-purchase and may vary by region.
+Certain features may be limited in the free version of the App.
 
-### 2.2 Billing and Renewal
+- Barcode scanning may be restricted to a set number of uses per period  
+- Limits may reset periodically (for example, monthly)  
+- Limits may change over time  
 
-**For iOS users:**
-Payment will be charged to your Apple ID at confirmation of 
-purchase. Subscriptions automatically renew unless cancelled at 
-least 24 hours before the end of the current billing period. 
-You can manage and cancel your subscription at any time in your 
-Apple ID account settings.
+We reserve the right to introduce, modify, or remove feature limits at any time.
 
-**For Android users:**
-Payment will be charged to your Google Play account at confirmation 
-of purchase. Subscriptions automatically renew unless cancelled at 
-least 24 hours before the end of the current billing period. You 
-can manage and cancel your subscription in the Google Play Store 
-under "Subscriptions."
+---
 
-### 2.3 Cancellation
+## 2. Subscriptions and Purchases
 
-You may cancel your subscription at any time:
+### 2.1 Available Plans
 
-- **iOS:** Settings → [Your Name] → Subscriptions → FreshTrack
-- **Android:** Google Play Store → Menu → Subscriptions → FreshTrack
+FreshTrack Pro may be offered as:
+
+- Monthly subscription  
+- Annual subscription  
+- Lifetime purchase (if available)  
+
+Prices are shown in your local currency at the time of purchase.
+
+---
+
+### 2.2 Billing
+
+**iOS:**  
+Payments are processed by Apple through your Apple ID.
+
+**Android:**  
+Payments are processed by Google through your Google Play account.
+
+Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current billing period.
+
+---
+
+### 2.3 Managing Subscriptions
+
+You can manage or cancel your subscription at any time:
+
+- **iOS:** Settings → Apple ID → Subscriptions  
+- **Android:** Google Play Store → Subscriptions  
 
 Cancellation takes effect at the end of the current billing period.
-You will retain Pro access until that date. **We do not offer 
-partial refunds for unused subscription time.**
+
+---
 
 ### 2.4 Refunds
 
-All purchases are subject to the refund policies of Apple 
-(App Store) or Google (Google Play). We do not process refunds 
-directly. To request a refund:
+All purchases are handled by Apple or Google. We do not process refunds directly.
 
-- **iOS:** reportaproblem.apple.com
-- **Android:** Google Play Help → Request a refund
+- iOS: reportaproblem.apple.com  
+- Android: Google Play Help  
+
+---
 
 ### 2.5 Restoring Purchases
 
-If you reinstall the App or switch devices, use the 
-"Restore Purchases" button on the subscription screen to 
-restore your Pro access. Your subscription is tied to your 
-Apple ID or Google account, not your device.
+You can restore purchases using the "Restore Purchases" option within the App. Purchases are linked to your Apple ID or Google account.
+
+---
 
 ### 2.6 Price Changes
 
-We reserve the right to change subscription prices. You will 
-be notified of price changes before they take effect and given 
-the opportunity to cancel.
-
-### 2.7 Free Trial (if offered)
-
-If a free trial is offered, it will be clearly stated on the 
-subscription screen. Unused portions of a free trial are forfeited 
-when you purchase a subscription.
+We may change pricing at any time. If you have an active subscription, you will be notified before changes take effect.
 
 ---
 
-## 3. Acceptable Use
+## 3. Advertising
 
-You agree to use FreshTrack only for lawful purposes and in 
-accordance with these Terms. You agree NOT to:
+The free version of FreshTrack displays advertisements provided by third-party ad networks.
 
-- Use the App in any way that violates applicable laws
-- Attempt to reverse engineer, decompile, or disassemble the App
-- Use the App to transmit harmful, offensive, or illegal content
-- Attempt to gain unauthorised access to any part of the App
-- Use automated means to access or scrape the App
-- Misrepresent your identity or affiliation
+These services may use device identifiers and other data to display relevant ads.
+
+Upgrading to FreshTrack Pro removes advertisements.
 
 ---
 
-## 4. Intellectual Property
+## 4. Third-Party Services
 
-### 4.1 Our Property
+FreshTrack relies on third-party services to provide certain functionality.
 
-FreshTrack, including its name, logo, design, code, and content,
-is owned by Peter Osei and protected by 
-intellectual property laws. You may not copy, modify, distribute,
-or create derivative works without our express written permission.
+| Service | Purpose |
+|--------|--------|
+| Google AdMob | Advertising |
+| RevenueCat | Subscription management |
+| Open Food Facts | Barcode product data |
+| Apple App Store | iOS payments |
+| Google Play Store | Android payments |
 
-### 4.2 Your Content
+Your use of these services is subject to their respective terms and policies.
 
-Your food tracking data (item names, dates, notes) belongs to you.
-By storing data in the App, you grant us no rights to that data —
-it remains on your device under your control.
-
-### 4.3 Third-Party Content
-
-Product information retrieved via barcode scanning is provided by
-Open Food Facts under the Open Database License (ODbL). We make 
-no warranties about the accuracy or completeness of this data.
+We are not responsible for the availability, accuracy, or content provided by third-party services.
 
 ---
 
-## 5. Disclaimer of Warranties
+## 5. Third-Party Data Disclaimer
 
-**FreshTrack is provided "as is" and "as available" without 
-warranties of any kind, either express or implied, including but 
-not limited to:**
+Product information retrieved through barcode scanning is provided by external databases.
 
-- Fitness for a particular purpose
-- Accuracy of expiry date tracking
-- Uninterrupted or error-free operation
-- That the App will meet your requirements
-
-**Important:** FreshTrack is a convenience tool to help you 
-remember expiry dates. It is **not** a substitute for checking 
-actual product labels. Always verify food safety by checking 
-the physical label on the product. Do not rely solely on 
-FreshTrack to determine whether food is safe to consume.
+We do not guarantee the accuracy, completeness, or reliability of this information. You should verify product details independently.
 
 ---
 
-## 6. Limitation of Liability
+## 6. Acceptable Use
 
-To the maximum extent permitted by applicable law, 
-Peter Osei shall not be liable for:
+You agree not to:
 
-- Any indirect, incidental, special, or consequential damages
-- Loss of data or profits
-- Health consequences from consuming expired food
-- Inaccurate product information from third-party databases
-- Service interruptions or App unavailability
-
-**Our total liability to you for any claim shall not exceed the 
-amount you paid for the App in the 12 months preceding the claim,
-or $10 USD, whichever is greater.**
+- Use the App for unlawful purposes  
+- Attempt to reverse engineer or modify the App  
+- Interfere with the App’s operation  
+- Attempt to bypass feature limits or payment systems  
+- Use automated tools to access or scrape the App  
 
 ---
 
-## 7. Third-Party Services
+## 7. Intellectual Property
 
-FreshTrack integrates with the following third-party services.
-Your use of these services is governed by their own terms:
+FreshTrack, including its design, branding, and software, is owned by Peter Osei.
 
-| Service | Purpose | Terms |
-|---------|---------|-------|
-| Google AdMob | Advertising (free tier) | policies.google.com/terms |
-| RevenueCat | Subscription management | revenuecat.com/terms |
-| Open Food Facts | Barcode product data | openfoodfacts.org/terms |
-| Apple App Store | Payment processing (iOS) | apple.com/legal/terms |
-| Google Play Store | Payment processing (Android) | play.google.com/about/play-terms |
+You may not copy, distribute, or modify any part of the App without permission.
 
-We are not responsible for the content, privacy practices, or 
-terms of these third-party services.
+Your food tracking data remains your own and stays on your device.
 
 ---
 
-## 8. Availability and Updates
+## 8. Data and Storage
 
-We reserve the right to:
+Your data is stored locally on your device.
 
-- Modify, suspend, or discontinue the App at any time
-- Release updates that change features or functionality
-- Require you to update the App to continue using it
+We do not store your food tracking data on our servers.
 
-We will provide reasonable notice of significant changes where 
-possible.
+You are responsible for managing and backing up your data.
 
 ---
 
-## 9. Termination
+## 9. Disclaimer of Warranties
 
-We may suspend or terminate your access to FreshTrack if you 
-violate these Terms. Upon termination:
+FreshTrack is provided "as is" without warranties of any kind.
 
-- Your licence to use the App ends immediately
-- You must delete all copies of the App from your devices
-- Data stored locally on your device remains under your control
+We do not guarantee:
 
-You may terminate your use of the App at any time by uninstalling it.
+- That the App will always be available or error-free  
+- That expiry tracking is fully accurate  
+- That third-party data is correct  
 
----
-
-## 10. Governing Law
-
-These Terms are governed by the laws of United Kingdom
-without regard to conflict of law principles. Any disputes shall 
-be resolved in the courts of United Kingdom.
-
-**EU Users:** Nothing in these Terms affects your statutory rights 
-as a consumer under EU law.
-
-**UK Users:** Nothing in these Terms affects your statutory rights 
-under UK consumer law.
+FreshTrack is a convenience tool. You should always check actual product labels before consuming food.
 
 ---
 
-## 11. Changes to Terms
+## 10. Limitation of Liability
 
-We may update these Terms from time to time. We will notify you of 
-material changes by:
+To the maximum extent permitted by law, we are not liable for:
 
-- Updating the "Last updated" date at this page
-- Showing an in-app notification for significant changes
+- Indirect or consequential damages  
+- Loss of data or profits  
+- Health outcomes related to food consumption  
+- Errors in third-party data  
+- Service interruptions  
 
-Your continued use of FreshTrack after changes become effective 
-constitutes acceptance of the revised Terms.
-
----
-
-## 12. Contact
-
-Questions about these Terms?
-
-**Email:** pierrobj5@gmail.com
-**Response time:** Within 48 hours
+Our total liability is limited to the amount you paid for the App in the past 12 months, or £10, whichever is greater.
 
 ---
 
-## 13. Entire Agreement
+## 11. Availability and Updates
 
-These Terms, together with our Privacy Policy, constitute the 
-entire agreement between you and Peter Osei 
-regarding FreshTrack and supersede all prior agreements.
+We may:
+
+- Modify or discontinue features  
+- Introduce or change feature limits  
+- Require updates to continue using the App  
+
+We will provide notice where reasonably possible.
 
 ---
 
-*If any provision of these Terms is found to be unenforceable,
-the remaining provisions will continue in full force and effect.*
+## 12. Termination
+
+We may suspend or terminate access if you violate these Terms.
+
+You may stop using the App at any time by uninstalling it.
+
+---
+
+## 13. Governing Law
+
+These Terms are governed by the laws of the United Kingdom.
+
+Nothing in these Terms affects your statutory consumer rights.
+
+---
+
+## 14. Changes to Terms
+
+We may update these Terms from time to time.
+
+Changes will be indicated by updating the "Last updated" date and, where appropriate, notifying you in the App.
+
+Continued use of the App means you accept the updated Terms.
+
+---
+
+## 15. Contact
+
+If you have questions about these Terms:
+
+**Email:** pierrobj5@gmail.com  
+**Response time:** within 48 hours  
+
+---
+
+## 16. Entire Agreement
+
+These Terms, together with the Privacy Policy, form the entire agreement between you and the developer regarding FreshTrack.
+
+If any part of these Terms is found to be unenforceable, the remaining sections will continue in effect.
